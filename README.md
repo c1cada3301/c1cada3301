@@ -1,5 +1,5 @@
 ### Hello everybody! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My name is Denis and I am a beginner devops engineer. In the near future I will be busy learning new technologies and developing skills. You can contact me via Telegram:
+My name is Denis and I am a junior DevOps engineer. In the near future I will be busy learning new technologies and developing skills. If u have any question, U can contact me via Telegram:
 
 <a href="https://t.me/c1cada_3301">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-2690369-2232872.png" />
@@ -28,6 +28,6 @@ My name is Denis and I am a beginner devops engineer. In the near future I will 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [ ] 
+* [ ]       
 <!-- TODO-IST:END -->
