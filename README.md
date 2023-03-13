@@ -1,7 +1,7 @@
 
 Oh my God, Ok it's happening - I am a DevOps eng.
 
-![screen-gif](https://miro.medium.com/fit/c/400/268/1*5M9-cL6tEoJKTswaTHdafQ.png)
+![screen-gif](https://thumbs.gfycat.com/TalkativeAcademicAfricangoldencat-poster.jpg)
 
 # Stack:  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
